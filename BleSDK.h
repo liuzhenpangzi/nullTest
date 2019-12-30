@@ -6,7 +6,7 @@
 
 #import <Foundation/Foundation.h>
 #import "BleSDKHeader.h"
-@interface BleSDK : NSObject
+@interface BleSDK : NSObjec
   
   
   
